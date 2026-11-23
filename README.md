@@ -51,6 +51,14 @@ python app.py
 
 ![已生成的科幻故事正文及两个预设音色的朗读播放器](docs/screenshots/story-result.jpg)
 
+**朗读试听｜新闻主播 · 龙婧（24 秒）**
+
+这段音频截自上图试听 A，是应用实际合成的《记忆沙漏》开头。
+
+<video controls preload="none" src="https://raw.githubusercontent.com/CenMunn/Celebrities-Tell-Stories/main/docs/demo/memory-hourglass.mp4"></video>
+
+[打开试听片段](https://raw.githubusercontent.com/CenMunn/Celebrities-Tell-Stories/main/docs/demo/memory-hourglass.mp4)
+
 ## 代码结构
 
 | 文件 | 用途 |
