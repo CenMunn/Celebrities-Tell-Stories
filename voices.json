@@ -1,0 +1,10 @@
+[
+  {"id":"longxiaochun_v2","name":"知性讲述 · 龙小淳","category":"女声","model":"cosyvoice-v2","region":"cn-beijing","language":"中文普通话、英文"},
+  {"id":"longshuo_v2","name":"干练男声 · 龙硕","category":"男声","model":"cosyvoice-v2","region":"cn-beijing","language":"中文普通话、英文"},
+  {"id":"longyue_v2","name":"温暖讲述 · 龙悦","category":"故事讲述","model":"cosyvoice-v2","region":"cn-beijing","language":"中文普通话、英文"},
+  {"id":"longjielidou_v2","name":"儿童风格 · 龙杰力豆","category":"儿童风格","model":"cosyvoice-v2","region":"cn-beijing","language":"中文普通话、英文"},
+  {"id":"longjing_v2","name":"新闻主播 · 龙婧","category":"新闻播报","model":"cosyvoice-v2","region":"cn-beijing","language":"中文普通话、英文"},
+  {"id":"longxiu_v2","name":"说书讲述 · 龙修","category":"故事讲述","model":"cosyvoice-v2","region":"cn-beijing","language":"中文普通话、英文"},
+  {"id":"longlaotie_v3","name":"东北风格 · 龙老铁","category":"方言风格","model":"cosyvoice-v3-flash","region":"cn-beijing","language":"东北话、英文"},
+  {"id":"longhuhu_v3","name":"天真童声 · 龙呼呼","category":"儿童风格","model":"cosyvoice-v3-flash","region":"cn-beijing","language":"中文普通话、英文"}
+]
