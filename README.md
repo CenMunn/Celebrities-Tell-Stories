@@ -55,9 +55,7 @@ python app.py
 
 这段音频截自上图试听 A，是应用实际合成的《记忆沙漏》开头。
 
-<video controls preload="none" src="https://raw.githubusercontent.com/CenMunn/Celebrities-Tell-Stories/main/docs/demo/memory-hourglass.mp4"></video>
-
-[打开试听片段](https://raw.githubusercontent.com/CenMunn/Celebrities-Tell-Stories/main/docs/demo/memory-hourglass.mp4)
+[▶ 在浏览器中试听](https://cdn.jsdelivr.net/gh/CenMunn/Celebrities-Tell-Stories@e2b63e0/docs/demo/memory-hourglass.mp4) · [下载原片段](https://raw.githubusercontent.com/CenMunn/Celebrities-Tell-Stories/main/docs/demo/memory-hourglass.mp4)
 
 ## 代码结构
 
